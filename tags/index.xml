@@ -6,6 +6,23 @@
         <description>Recent content in Tags on blindlq&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>L1nSn0w</copyright><atom:link href="https://blog.linsnow.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Blindlq</copyright>
+        <lastBuildDate>Tue, 29 Oct 2024 11:50:09 +0800</lastBuildDate><atom:link href="https://blog.linsnow.cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Laravel</title>
+        <link>https://blog.linsnow.cn/tags/laravel/</link>
+        <pubDate>Tue, 29 Oct 2024 11:50:09 +0800</pubDate>
+        
+        <guid>https://blog.linsnow.cn/tags/laravel/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Php</title>
+        <link>https://blog.linsnow.cn/tags/php/</link>
+        <pubDate>Tue, 29 Oct 2024 11:50:09 +0800</pubDate>
+        
+        <guid>https://blog.linsnow.cn/tags/php/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.linsnow.cn/</loc>
-    <lastmod>2024-09-27T11:19:31+08:00</lastmod>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.linsnow.cn/tags/laravel/</loc>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.linsnow.cn/post/2024/10/about-laravel-chunkbyid/</loc>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.linsnow.cn/tags/php/</loc>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
   </url><url>
     <loc>https://blog.linsnow.cn/post/</loc>
-    <lastmod>2024-09-27T11:19:31+08:00</lastmod>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
   </url><url>
-    <loc>https://blog.linsnow.cn/p/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83/</loc>
+    <loc>https://blog.linsnow.cn/tags/</loc>
+    <lastmod>2024-10-29T11:50:09+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.linsnow.cn/post/2024/9/first-blog/</loc>
     <lastmod>2024-09-27T11:19:31+08:00</lastmod>
   </url><url>
     <loc>https://blog.linsnow.cn/archives/</loc>
@@ -22,10 +34,6 @@
     <loc>https://blog.linsnow.cn/links/</loc>
   </url><url>
     <loc>https://blog.linsnow.cn/search/</loc>
-  </url><url>
-    <loc>https://blog.linsnow.cn/tags/</loc>
-  </url><url>
-    <loc>https://blog.linsnow.cn/categories/test/</loc>
   </url><url>
     <loc>https://blog.linsnow.cn/%E5%85%B3%E4%BA%8E/</loc>
   </url>
